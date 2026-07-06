@@ -40,6 +40,10 @@ body.color4 {
 #home_image img {
 	width: 100%;
 }
+#home_content img {
+	max-width: 100%;
+	height: auto;
+}
 .color_1 {
 	position: absolute;
 	height: 100%;
